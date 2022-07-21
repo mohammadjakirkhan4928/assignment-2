@@ -28,9 +28,9 @@
 }
 .top-text h1{
     font-size: 20px;
-    font-family: 'poppins';
-    font-weight: 700;
-    line-height: 10px;
+    font-family:'poppins';
+    font-weight:700;
+    line-height:20px;
     margin-top: 50px;
     margin-bottom: 0px;
 }
@@ -152,14 +152,14 @@ footer{
     gap: 26px;
 }
 .card{
-    width: 316px;
-    height: 330px;
-    border: 1px solid white;
-    border-radius: 33px;
+    width:316px;
+    height:330px;
+    border:1px solid #ffffff;
+    border-radius:6px;
     display: flex
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:flex-start;
 }
 .card-image{
     margin-bottom: 15px;
